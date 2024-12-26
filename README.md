@@ -42,6 +42,8 @@ This project is a Spring Boot application that provides a REST API for managing 
 
 4. Access the API at `http://localhost:2090/bookings`.
 
+5. Access the H2 Console at http://localhost:2080/h2-console.
+
 ## API Endpoints
 
 ### Create a Booking
