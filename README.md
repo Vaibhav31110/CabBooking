@@ -26,7 +26,7 @@ This project is a Spring Boot application that provides a REST API for managing 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vaibhav31110/CabBooking
    cd cab-booking-api
    ```
 
