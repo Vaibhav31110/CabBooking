@@ -132,6 +132,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 
 For questions or support, please contact:
-- **Developer**: [Your Name]
-- **Email**: [your-email@example.com]
+- **Developer**: Vaibhav D Vaishnav
+- **Email**: Vaibhavvaishnav2412@gmail.com
 
